@@ -1,5 +1,12 @@
 # Symfony Helper
 
+
+### Delete cache
+	 sudo rm -rf var/cache/*
+
+### cache bust 
+	composer dumpautload
+
 ### Symfony Profiler /  very helpful to debug
 	
 ```
